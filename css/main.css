@@ -2135,8 +2135,8 @@ nav a:hover {
 
 .banner-area .overlay-bg {
   opacity: .8;
-  background-image: -webkit-linear-gradient(bottom, #f62e71 0%, #f9ab72 100%);
-  background-image: -o-linear-gradient(bottom, #f62e71 0%, #f9ab72 100%);
+  background-image: -webkit-linear-gradient(bottom, #4d6563 0%, #15f1adec 100%);
+  background-image: -o-linear-gradient(bottom, #4d6563 0%, #15f1adec 100%);
   background-image: linear-gradient(to top, #4d6563 0%, #15f1adec 100%);
 }
 
