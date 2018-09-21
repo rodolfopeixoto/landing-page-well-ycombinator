@@ -1971,9 +1971,9 @@ nav a:hover {
 }
 
 .p1-gradient-color, .about-right h1, .sigle-facilities:hover .lnr, .footer-social i:hover, .single-footer-widget .bb-btn {
-  background: -webkit-linear-gradient(bottom, #f62e71 0%, #f9ab72 100%);
-  background: -o-linear-gradient(bottom, #f62e71 0%, #f9ab72 100%);
-  background: linear-gradient(to top, #f62e71 0%, #f9ab72 100%);
+  background: -webkit-linear-gradient(bottom, #4d6563 0%, #15f1adec 100%);
+  background: -o-linear-gradient(bottom, #4d6563 0%, #15f1adec 100%);
+  background: linear-gradient(to top, #4d6563 0%, #15f1adec 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
