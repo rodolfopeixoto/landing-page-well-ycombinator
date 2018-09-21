@@ -1967,7 +1967,7 @@ nav a:hover {
 .p1-gradient-bg, .primary-btn, .primary-btn:after, .primary-btn2.primary-border:hover, .single-service .content .content-overlay, .content .content-overlay, .single-footer-widget .click-btn {
   background-image: -webkit-linear-gradient(bottom, #f62e71 0%, #f9ab72 100%);
   background-image: -o-linear-gradient(bottom, #f62e71 0%, #f9ab72 100%);
-  background-image: linear-gradient(to top, #f62e71 0%, #f9ab72 100%);
+  background-image: linear-gradient(to top, #4d6563 0%, #15f1adec 100%);
 }
 
 .p1-gradient-color, .about-right h1, .sigle-facilities:hover .lnr, .footer-social i:hover, .single-footer-widget .bb-btn {
