@@ -8,12 +8,12 @@
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #f7427f;
+  background-color: #26bb8e;
   color: #fff;
 }
 
 ::selection {
-  background-color: #f7427f;
+  background-color: #26bb8e;
   color: #fff;
 }
 
@@ -1911,10 +1911,10 @@ nav {
     background: #fff;
   }
   nav a {
-    color: #f7427f !important;
+    color: #26bb8e !important;
   }
   nav a:hover {
-    color: #f7427f;
+    color: #26bb8e;
   }
 }
 
@@ -2265,8 +2265,8 @@ nav a:hover {
 }
 
 .carousel-trigger .next-trigger:hover, .carousel-trigger .prev-trigger:hover {
-  background: #f7427f;
-  border: 1px solid #f7427f;
+  background: #26bb8e;
+  border: 1px solid #26bb8e;
 }
 
 .carousel-trigger .next-trigger:hover span, .carousel-trigger .prev-trigger:hover span {
@@ -2627,7 +2627,7 @@ h6 {
 }
 
 .copy-right-text i, .copy-right-text a {
-  color: #f7427f;
+  color: #26bb8e;
 }
 
 .instafeed {
@@ -2766,5 +2766,5 @@ h6 {
 }
 
 .footer-text a, .footer-text i {
-  color: #f7427f;
+  color: #26bb8e;
 }
