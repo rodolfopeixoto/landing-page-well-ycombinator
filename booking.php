@@ -1,7 +1,8 @@
 <?php
     $to = 'sejawell@gmail.com';
     $from = $_POST["fname"];
-    $to= $_POST["lname"];
+    $to= $_POST["email"];
+    $to= $_POST["tel"];
     $text= $_POST["start"];
     $text= $_POST["arrival"];
     $text= $_POST["departure"];
@@ -18,15 +19,9 @@
 
     $message ='<table style="width:100%">
         <tr>
-            <td>'.$fname.'  '.$lname.'</td>
+            <td>'.$fname.'  '.$email.'</td>
         </tr>
-        <tr><td>Start: '.$start.'</td></tr>
-        <tr><td>Arrival: '.$arrival.'</td></tr>
-        <tr><td>Departure: '.$departure.'</td></tr>
-        <tr><td>Room-type: '.$room-type.'</td></tr>
-        <tr><td>Room-no: '.$no-room.'</td></tr>
-        <tr><td>Adults: '.$adults.'</td></tr>
-        <tr><td>Child: '.$child.'</td></tr>
+        <tr><td>Telefone: '.$tel.'</td></tr>
         
     </table>';
 
