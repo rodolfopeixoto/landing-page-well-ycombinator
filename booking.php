@@ -5,14 +5,13 @@ $name = $_POST['name'];
 $email = $_POST['email'];
 //pega os dados que foi digitado no ID email.
 
-$subject = "Formulário da landing page well"
+$subject = "Formulário da landing page well";
 //pega os dados que foi digitado no ID sebject.
 
 // $message = $_POST['message'];
 //pega os dados que foi digitado no ID message.
 $headers = "From: $email\r\n";
-$headers = "Reply-To: $email\r\n";
-
+$headers .= "Reply-To: $email\r\n";
 /*abaixo contém os dados que serão enviados para o email
 cadastrado para receber o formulário*/
 
