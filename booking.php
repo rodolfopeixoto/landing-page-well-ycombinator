@@ -19,7 +19,7 @@ $corpo = "Formulário enviado\n";
 $corpo .= "Nome: " . $name . "\n";
 $corpo .= "Email: " . $email . "\n";
 
-$email_to = 'rodolfog.peixoto@gmail.com';
+$email_to = 'sejawell@gmail.com';
 //não esqueça de substituir este email pelo seu.
 
 $status = mail($email_to, $subject, $corpo, $headers);
