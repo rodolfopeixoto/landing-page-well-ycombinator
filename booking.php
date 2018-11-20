@@ -10,9 +10,8 @@ $subject = "Formulário da landing page well"
 
 // $message = $_POST['message'];
 //pega os dados que foi digitado no ID message.
-$headers = 'MIME-Version: 1.0' . "\r\n";
-$headers = "From: " . $name . "\r\n"; // Sender's E-mail
-$headers = 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+$headers = "From: $email\r\n";
+$headers = "Reply-To: $email\r\n";
 
 /*abaixo contém os dados que serão enviados para o email
 cadastrado para receber o formulário*/
